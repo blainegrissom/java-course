@@ -1,2 +1,2 @@
 # java-course
-Projects created as a result of my progress through Udemy.com's "Java Programming Masterclass for Software Developers".
+This is the repository for my work done using "Java Programming Masterclass for Software Developers".
